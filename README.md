@@ -1,6 +1,6 @@
 ![MasterHead](https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/data-science-icon-animation-banner-clockwise.gif?fit=1200%2C400)
 <h1 align="center">Hi 👋, I'm Snehil</h1>
-<h3 align="center">A passionate Android Developer</h3>
+<h3 align="center">A passionate Junior Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mijokotsi&label=Profile%20views&color=0e75b6&style=flat" alt="mijokotsi" /> </p>
